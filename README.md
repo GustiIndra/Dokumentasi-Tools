@@ -74,4 +74,19 @@ pada menu ceklis di ceklis semua lalu save
 ![ceklis](https://user-images.githubusercontent.com/113918395/193444337-236d18b8-5fbc-4380-bae2-93920445f09a.png)
 
 
+4 Selanjutnya kita membuat directory dengan comand 
+
+⚡ root@Gusti  ~  mkdir Perkuliahan
+⚡ root@Gusti  ~  cd Perkuliahan
+⚡ root@Gusti  ~/Perkuliahan  mkdir Bahasa_Pemograman
+![membuat directory](https://user-images.githubusercontent.com/113918395/193444575-96e88dab-481c-45f6-ae8d-7ad719b081f1.png)
+
+5 Selanjut open VsCode ( jika belum ada silakan di install terlebih dahulu ), setelah masuk ke VsCode cari github lalu sign dan akan di alihkan ke web dan autirize seperti gambar dibawah ini
+
+![sigin github](https://user-images.githubusercontent.com/113918395/193445009-f662a0c9-7bde-4b3b-bae5-3e432be40710.png)
+
+![ssh vcscode](https://user-images.githubusercontent.com/113918395/193445031-b2e0ff3f-f4cb-499d-884e-eaefc69093f1.png)
+
+
+
 
