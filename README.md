@@ -48,3 +48,17 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 
 ![plugins](https://user-images.githubusercontent.com/113918395/193443047-91831b98-8085-42fe-8086-06a122162a29.png)
+
+
+# Connect To GitHub
+
+1. Pertama ketik comand " ssh-keygen " pada tahap ini silakan di enter saja sampai seperti gambar seperti ini
+
+![ssh](https://user-images.githubusercontent.com/113918395/193443677-2ad2e465-785e-4564-9125-1b3647864d28.png)
+
+
+2 Langkah selanjutnya buat ssh-key https://github.com/settings/keys dengan note wsl dan paste hasil ouput dari CAT
+
+![show cat ssh terminal](https://user-images.githubusercontent.com/113918395/193443980-09950d14-aab8-46bb-bffc-10eb1abf5377.png)
+
+![wsl github add](https://user-images.githubusercontent.com/113918395/193444041-882759db-94fa-45b8-b989-1c88b33ecd6e.png)
