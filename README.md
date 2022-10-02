@@ -14,6 +14,8 @@
 
 ![startup](https://user-images.githubusercontent.com/113918395/193440049-e8932273-9de0-413e-bd01-6d96f1ade7c0.png)
 
+# Plugins
+
 5. Setelah itu jika sudah masuk ke ubuntu ketik comand apt update 
 
 ![apt update new](https://user-images.githubusercontent.com/113918395/193440799-2efd9be3-820d-46db-8bf0-c4b661fab4d2.png)
