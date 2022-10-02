@@ -62,3 +62,16 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 ![show cat ssh terminal](https://user-images.githubusercontent.com/113918395/193443980-09950d14-aab8-46bb-bffc-10eb1abf5377.png)
 
 ![wsl github add](https://user-images.githubusercontent.com/113918395/193444041-882759db-94fa-45b8-b989-1c88b33ecd6e.png)
+
+
+3 Tahap selanjutnya masuk ke menu setting  dan masuk ke developer setting dan setting seperti gambar kedua
+pada menu ceklis di ceklis semua lalu save
+
+![dev](https://user-images.githubusercontent.com/113918395/193444263-fec101e9-c82c-4fbd-ac0c-1a1c78a0f119.png)
+
+![personal token dev api setting](https://user-images.githubusercontent.com/113918395/193444323-87378844-8e02-4609-9c5b-c38668b7d436.png)
+
+![ceklis](https://user-images.githubusercontent.com/113918395/193444337-236d18b8-5fbc-4380-bae2-93920445f09a.png)
+
+
+
