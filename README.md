@@ -14,3 +14,15 @@
 
 ![startup](https://user-images.githubusercontent.com/113918395/193440049-e8932273-9de0-413e-bd01-6d96f1ade7c0.png)
 
+5. Setelah itu jika sudah masuk ke ubuntu ketik comand apt update 
+
+![apt update new](https://user-images.githubusercontent.com/113918395/193440799-2efd9be3-820d-46db-8bf0-c4b661fab4d2.png)
+
+6. jika sudah selesai dengan tahap di atas selanjutnya kita menuju web https://github.com/ohmyzsh/ohmyzsh untuk mencari comand ZSH
+
+![ohmy](https://user-images.githubusercontent.com/113918395/193440918-0049c2b6-6a9b-40e4-9abe-fdab5bb94c95.png)
+
+7 selanjutnya kita akan install ZSH dengan ketik comand " install zsh " pada terminal ubuntu
+
+![zsh install](https://user-images.githubusercontent.com/113918395/193440977-9048177c-59ef-4bb7-98fd-526214740493.png)
+
