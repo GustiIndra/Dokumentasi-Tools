@@ -26,3 +26,23 @@
 
 ![zsh install](https://user-images.githubusercontent.com/113918395/193440977-9048177c-59ef-4bb7-98fd-526214740493.png)
 
+8 Tahap berikutnya ketik comand pada terminal seperti ini sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" 
+jika, kalian belum install curl dan git silakan install terlebih dahulu karena tidak bisa jalankan comand diatas jika belum install
+
+>apt install curl ( tunggu sampai selesai )
+>apt install git  ( tunggu sampai selesai )
+
+![selesai zsh](https://user-images.githubusercontent.com/113918395/193441880-babfe245-826a-4acb-bf85-377ada98f525.png)
+
+9 Tahap berikutnya kita ketik comand nano /root/.zshrc , setelah itu rubah bagian ZSH_THEME="robbrussel" menjadi ZSH_THEME="agnoster" 
+pilih linenya dengan tombol arah
+
+![agnoster](https://user-images.githubusercontent.com/113918395/193442344-960d4c91-3436-4f90-a101-10f7ae4d7a8e.png)
+
+10 Tahap berikutnya ketik comand sebagai berikut pada terminal, setelah itu masuk kembali ke nano /root/.zshrc kalian ke bagian bawah dengan menekan tombol arah dan kalian cari plugins dan kalian ganti seperti pada gambar berikut
+
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+
+![plugins](https://user-images.githubusercontent.com/113918395/193443047-91831b98-8085-42fe-8086-06a122162a29.png)
