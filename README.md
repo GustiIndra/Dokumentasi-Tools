@@ -87,10 +87,6 @@ pada menu ceklis di ceklis semua lalu save
 
 ![ssh vcscode](https://user-images.githubusercontent.com/113918395/193445031-b2e0ff3f-f4cb-499d-884e-eaefc69093f1.png)
 
-6 Selanjutnya kita akan install Python 3 untuk nanti menjakan srip yang kita buat
-sebelum kita install kita bisa buat directory pertemuan 1 seperti dibawah ini 
-![python vcscode](https://user-images.githubusercontent.com/113918395/193445564-2b5a8cb1-2c3a-4698-af13-663ee9a9ad87.png)
-
 
 
 
